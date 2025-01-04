@@ -1,4 +1,4 @@
-const backendUrl = "https://your-backend-url.com/generate"; // Replace with your online backend URL
+const backendUrl = "https://imageai-8cyh.onrender.com/generate"; // Replace with your online backend URL
 
 document.getElementById('generateBtn').addEventListener('click', async () => {
     const prompt = document.getElementById('prompt').value;
